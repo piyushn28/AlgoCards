@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\memorygame\memorygame\bin\Debug\memorygame.exe.config
+C:\Users\User\source\repos\memorygame\memorygame\bin\Debug\memorygame.exe
+C:\Users\User\source\repos\memorygame\memorygame\bin\Debug\memorygame.pdb
+C:\Users\User\source\repos\memorygame\memorygame\obj\Debug\memorygame.csprojAssemblyReference.cache
+C:\Users\User\source\repos\memorygame\memorygame\obj\Debug\memorygame.Properties.Resources.resources
+C:\Users\User\source\repos\memorygame\memorygame\obj\Debug\memorygame.csproj.GenerateResource.cache
+C:\Users\User\source\repos\memorygame\memorygame\obj\Debug\memorygame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\memorygame\memorygame\obj\Debug\memorygame.exe
+C:\Users\User\source\repos\memorygame\memorygame\obj\Debug\memorygame.pdb
+C:\Users\User\source\repos\memorygame\memorygame\obj\Debug\memorygame.AlgoCards.resources
